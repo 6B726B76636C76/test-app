@@ -16,3 +16,5 @@ USER appuser
 EXPOSE 8000
 
 ENTRYPOINT ["python", "main.py"]
+
+#for test
